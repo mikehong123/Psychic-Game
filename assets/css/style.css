@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+}
+
+html, body{
+	color: #777777;
+	background-image: url("");
+	border-color: #FFF;
+	font-size: 18px;
+	line-height: 34px;
+	font-family: 'Inconsolata', sans-serif;
+    background-color: #fff;  
+    padding: 50px;	
+}
+
+h1 {
+	font-size: 48px;
+	margin-bottom: 15px;
+}
+
+.wrapper {
+  min-height: 100%;
+  height: auto;
+  height: 100%;
+  margin: 20px;
+}
+
+#game{
+	text-align: left;
+}
+#container{
+	width: 100%;
+	max-width: 960px;
+	margin: 0 auto;
+	clear: both;	
+}
+
